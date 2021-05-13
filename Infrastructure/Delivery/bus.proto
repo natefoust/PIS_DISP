@@ -1,0 +1,7 @@
+syntax="proto3";
+message bus {
+int32 id = 1;
+string route_number = 2;
+string trail_number = 3;
+}
+
